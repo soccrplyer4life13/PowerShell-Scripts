@@ -1,1 +1,1 @@
-powershell -file %~dp0ArchiveRecordings.ps1
+powershell -file %~dp0ArchiveRecordings.ps1dgsdfg
