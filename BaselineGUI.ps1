@@ -85,7 +85,7 @@ write-host "Found the following interactable elements from our form" -Foreground
 get-variable control_*
 }
  
-Get-FormVariables
+#Get-FormVariables
 #endregion
 
 #===========================================================================
