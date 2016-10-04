@@ -18,7 +18,6 @@ $inputXML = @"
         
 
         <!-- OTHER CONTROLS THAT ARE POSSIBLE
-        --------------------------------------
         <Border x:Name="border"/>
         <Button x:Name="button"/>
         <Calendar x:Name="calendar"/>
@@ -54,8 +53,6 @@ $inputXML = @"
         <ToolBar x:Name="toolbar"/>
         <TreeView x:Name="treeview"/>
         <WrapPanel x:Name="wrappanel"/>
-
-        ---------------------------------------------------------------------------------------------------
         FOR THE FULL LIST - https://msdn.microsoft.com/en-us/library/system.windows.controls(v=vs.110).aspx
         -->
     </Grid>
